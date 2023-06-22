@@ -1,5 +1,8 @@
 # week1code-challenge
-Code Challenge 1: Grade Calculator
+
+
+
+# Code Challenge 1: Grade Calculator
 This algorithm calculates a grade based on the marks input by the user. It follows these steps:
 
   1.The algorithm prompts the user to enter the marks.
@@ -9,7 +12,7 @@ This algorithm calculates a grade based on the marks input by the user. It follo
 
   3.The algorithm then returns the marks input and the assigned grade.
 
-Code Challenge 2: Speed Detector
+# Code Challenge 2: Speed Detector
   
   1.This algorithm checks the speed input by the user and determines if it exceeds the speed limit. It follows these steps:
 
@@ -19,7 +22,7 @@ Code Challenge 2: Speed Detector
 
   4.The algorithm returns the speed input, the demerit points (if any), and a judgement based on the speed.
 
-Code Challenge 3: Salary Calculator
+# Code Challenge 3: Salary Calculator
 
 This algorithm calculates the gross salary, tax, deductions (NHIF & NSSF), and net salary based on the user's input. It follows these steps:
 
@@ -29,11 +32,11 @@ This algorithm calculates the gross salary, tax, deductions (NHIF & NSSF), and n
 
  3.The algorithm returns the gross salary, tax, deductions, and net pay.
 
-sources:
+# sources:
 https://www.aren.co.ke/payroll/taxrates.htmLinks to an external site.  
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
-install prompt-sync extension to enable user prompt
+# install prompt-sync extension to enable user prompt
   
-Author: Quincy Chisaina
+# Author: Quincy Chisaina
