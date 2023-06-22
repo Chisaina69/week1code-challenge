@@ -1,6 +1,7 @@
 # week1code-challenge
 
-
+# project setup
+It can be ran on any browser eg (google-chrome,firefox) console and it will initiate a prompt when asked for details.
 
 # Code Challenge 1: Grade Calculator
 This algorithm calculates a grade based on the marks input by the user. It follows these steps:
